@@ -6,5 +6,14 @@
 
 
 
+
+
+    End Sub
+
+   
+    Private Sub Button1_Click(sender As System.Object, e As System.EventArgs) Handles Button1.Click
+
+        Me.txtresultado.Text = Convert.ToInt32(Me.txtnum1.Text) + Convert.ToInt32(Me.txtnum2.Text)
+
     End Sub
 End Class

@@ -10,3 +10,9 @@ C:\Users\Cristna\Documents\GitHub\PrograII\PracticasVarias\PracticasVarias\obj\x
 C:\Users\JoseLuis\Documents\GitHub\PrograII\PracticasVarias\PracticasVarias\obj\x86\Debug\PracticasVarias.exe
 C:\Users\JoseLuis\Documents\GitHub\PrograII\PracticasVarias\PracticasVarias\obj\x86\Debug\PracticasVarias.xml
 C:\Users\JoseLuis\Documents\GitHub\PrograII\PracticasVarias\PracticasVarias\obj\x86\Debug\PracticasVarias.pdb
+C:\Users\JoseLuis\Documents\GitHub\PrograII\PracticasVarias\PracticasVarias\bin\Debug\PracticasVarias.exe
+C:\Users\JoseLuis\Documents\GitHub\PrograII\PracticasVarias\PracticasVarias\bin\Debug\PracticasVarias.pdb
+C:\Users\JoseLuis\Documents\GitHub\PrograII\PracticasVarias\PracticasVarias\bin\Debug\PracticasVarias.xml
+C:\Users\JoseLuis\Documents\GitHub\PrograII\PracticasVarias\PracticasVarias\obj\x86\Debug\PracticasVarias.Form1.resources
+C:\Users\JoseLuis\Documents\GitHub\PrograII\PracticasVarias\PracticasVarias\obj\x86\Debug\PracticasVarias.Resources.resources
+C:\Users\JoseLuis\Documents\GitHub\PrograII\PracticasVarias\PracticasVarias\obj\x86\Debug\PracticasVarias.vbproj.GenerateResource.Cache
