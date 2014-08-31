@@ -2,7 +2,9 @@
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
-        Me.Label1.Text = "Hola Mundo"
+        Me.Label1.Text = "Hola Mundo a Todos"
+
+
 
     End Sub
 End Class
